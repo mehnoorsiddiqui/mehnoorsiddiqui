@@ -11,7 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about 
 - 📫 How to reach me: 
- [![](./icons/linkedin_icon.png)](www.linkedin.com/in/mahnoor-sid-)
  
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love planting and
