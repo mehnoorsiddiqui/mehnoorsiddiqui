@@ -1,7 +1,7 @@
 ### Hellooo , I am Mehnoor -Software Engineering Student👋
 
 
-- 🔭 I’m currently working on Node js and React js 🔥🔥
+- 🔭 I’m currently working on Express js and React js 🔥🔥
 - 🌱 I’m currently learning TypeScript ✨✨
 - 👯 I’m looking to collaborate on React and Express js projects
 - 💬 Ask me about JavaScrpit, Node js or anything related to coding  
